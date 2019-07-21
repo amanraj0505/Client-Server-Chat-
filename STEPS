@@ -1,0 +1,6 @@
+Steps:
+1. Run the 'server.py' file on one terminal. (command: python2 server.py)
+2. After running server.py file, run 'client.py' file on another terminal. (command: python2 client.py)
+3. Now send your first message from client terminal, then the reply from server terminal.
+4. You can keep on sending and recieving until 'exit' message is being sent from both the end.
+5. Try it out :)
